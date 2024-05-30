@@ -1,3 +1,17 @@
+# requirement
+1. node
+2. mysql
+
+# configuration
+configure `.env` file (you can copy and paste it from `.env.example` file)
+
+
+## Installation
+
+```bash
+  npm i
+  npm run start:dev
+```
 
 ## API Reference
 
